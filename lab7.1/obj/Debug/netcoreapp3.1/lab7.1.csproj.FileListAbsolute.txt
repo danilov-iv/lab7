@@ -1,0 +1,11 @@
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.exe
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.deps.json
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.runtimeconfig.json
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.runtimeconfig.dev.json
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.dll
+E:\study\прога\lab7\lab7\lab7.1\bin\Debug\netcoreapp3.1\lab7.1.pdb
+E:\study\прога\lab7\lab7\lab7.1\obj\Debug\netcoreapp3.1\lab7.1.csprojAssemblyReference.cache
+E:\study\прога\lab7\lab7\lab7.1\obj\Debug\netcoreapp3.1\lab7.1.AssemblyInfoInputs.cache
+E:\study\прога\lab7\lab7\lab7.1\obj\Debug\netcoreapp3.1\lab7.1.AssemblyInfo.cs
+E:\study\прога\lab7\lab7\lab7.1\obj\Debug\netcoreapp3.1\lab7.1.dll
+E:\study\прога\lab7\lab7\lab7.1\obj\Debug\netcoreapp3.1\lab7.1.pdb
